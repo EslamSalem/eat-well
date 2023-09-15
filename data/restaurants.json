@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Papa John",
+    "address": "123 street",
+    "cuisine": "Italian",
+    "website": "https://www.papa-john.com",
+    "description": "Tasty!"
+  },
+  {
+    "name": "McDonalds",
+    "address": "456 street",
+    "cuisine": "Gawd Damn American",
+    "website": "https://mcdeez.com",
+    "description": "'Murica baby"
+  },
+  {
+    "name": "Restaurant 3",
+    "address": "3 street",
+    "cuisine": "Food",
+    "website": "https://restaurant.com",
+    "description": "It's good."
+  }
+]
