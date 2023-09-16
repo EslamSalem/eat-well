@@ -1,9 +1,18 @@
 [
   {
+    "id": "r1",
     "name": "Mcdonalds",
     "address": "123 street",
     "cuisine": "Fast Food",
     "website": "https://mcdonalds.com",
     "description": "The food is really good."
+  },
+  {
+    "name": "Pizza",
+    "address": "street",
+    "cuisine": "Italian",
+    "website": "https://pizza.com",
+    "description": "Good Food.",
+    "id": "3165bbda-6024-466c-a9d8-738328e7153e"
   }
 ]
